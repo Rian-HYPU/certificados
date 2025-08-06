@@ -1,4 +1,11 @@
+#certificados {
+  padding: 40px;
+}
+#certificados div {
+  display: inline;
+  padding: 20px;
+}
 img {
-  width: 100%;
-  height: auto;
+  width: 100px;
+  height: 100px;
 }

@@ -1,0 +1,19 @@
+body * {
+  background-color: #ffffff; /* Fundo branco */
+  font-family: "Libertinus Sans", sans-serif;
+  font-weight: 700;
+}
+/* Estilo base para todo o body */
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center; /* Centraliza o conteúdo inline como h1 */
+}
+
+/* Cabeçalho */
+header h1 {
+  color: #ff6600; /* Laranja vivo */
+  margin-top: 2rem;
+  font-size: 2.5rem;
+  padding: 30px;
+}
